@@ -76,7 +76,7 @@ async def start(client, message):
             text="**Please Join My Updates Channel to use this Bot!**",
             reply_markup=InlineKeyboardMarkup(btn),
             parse_mode="markdown"
-            ) nj
+            )
         return
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
