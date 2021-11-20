@@ -418,8 +418,8 @@ InlineKeyboardButton('❔How To Use Me ❔', url='https://t.me/updatechannel8986
             InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
             InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/updatechannel8986')
             ],[
-            InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('𝑴𝒀𝑫𝒆𝒗🧑‍💻', url='https://t.me/PeterParkerspide'),
+            InlineKeyboardButton('Game', callback_data='help')
             ],[
             InlineKeyboardButton('➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕', url='https://t.me/No_Way_Home_bot?startgroup=true')
         ]]
@@ -431,16 +431,9 @@ InlineKeyboardButton('❔How To Use Me ❔', url='https://t.me/updatechannel8986
         )
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton('ғɪʟᴛᴇʀ', callback_data='filter'),
-            InlineKeyboardButton('ɪᴍᴅʙ', callback_data='imbd'),
             InlineKeyboardButton('ғᴜɴ', callback_data='fun',)
             ],[
-            InlineKeyboardButton('ᴄᴏɴɴᴇᴄᴛɪᴏɴ', callback_data='coct'),
-            InlineKeyboardButton('ɪɴғᴏ', callback_data='info'),
-            InlineKeyboardButton('ʙʀᴏᴀᴅᴄᴀsᴛ', callback_data='broadcast')
-            ],[
             InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='start'), 
-            InlineKeyboardButton('sᴛᴀᴛᴜs', callback_data='stats'),
             InlineKeyboardButton('close', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
