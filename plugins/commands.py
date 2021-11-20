@@ -76,11 +76,11 @@ async def start(client, message):
             text="**Please Join My Updates Channel to use this Bot!**",
             reply_markup=InlineKeyboardMarkup(btn),
             parse_mode="markdown"
-            )
+            ) nj
         return
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('❔How To Use Me ❔', url=https://t.me/updatechannel8986')
+            InlineKeyboardButton('❔How To Use Me ❔', url='https://t.me/updatechannel8986')
             ],[
             InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
             InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/updatechannel8986')
