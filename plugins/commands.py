@@ -43,7 +43,7 @@ async def start(client, message):
             InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/updatechannel8986')
             ],[
             InlineKeyboardButton('𝑴𝒀𝑫𝒆𝒗🧑‍💻', url='https://t.me/PeterParkerspide'),
-            InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('Game', callback_data='help')
             ],[
             InlineKeyboardButton('➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕', url='https://t.me/No_Way_Home_bot?startgroup=true')
         ]]
@@ -86,7 +86,7 @@ async def start(client, message):
             InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/updatechannel8986')
             ],[
             InlineKeyboardButton('𝑴𝒀𝑫𝒆𝒗🧑‍💻', url='https://t.me/PeterParkerspide'),
-            InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about') 
+            InlineKeyboardButton('Game', callback_data='help') 
             ],[
             InlineKeyboardButton('➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕',url='https://t.me/No_Way_Home_bot?startgroup=true')
         ]]
