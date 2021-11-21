@@ -5,7 +5,7 @@ Very Sempil Bot Auto Filter bot
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
 
-[![Deploy](https://telegra.ph/file/a8ba3b2bb28519441d825.jpg)](https://heroku.com/deploy?template=https://github.com/LolanBot18/help)
+[![Deploy](https://telegra.ph/file/a8ba3b2bb28519441d825.jpg)](https://heroku.com/deploy?template=https://github.com/LolanBot18/TomHolland)
 
 - [x] Auto Filter
 - [x] Manuel Filter
@@ -25,6 +25,9 @@ Very Sempil Bot Auto Filter bot
 <h3 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋<img align="center" src="https://github.com/PANDITHAN/PANDITHAN/blob/main/assets/Handshake.gif" height="33px" /></h3>
 <p align="center">
 <a href="https://t.me/PeterParkerspide"><img alt="Telegram" src="https://img.shields.io/badge/𝙳𝙴𝚅 1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/updatechannel8986"><img alt="Telegram" src="https://img.shields.io/badge/©️ᴄʜᴀɴɴᴇʟ 1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/lolangroup"><img alt="Telegram" src="https://img.shields.io/badge/♻️Gʀᴏᴜᴘ 1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/No_Way_Home_bot"><img alt="Telegram" src="https://img.shields.io/badge/𝙳𝚎𝚖𝚘 𝙱𝚘𝚝 1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 ## Installation
 
@@ -46,7 +49,7 @@ Very Sempil Bot Auto Filter bot
 
 ###Tom Holland
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LolanBot18/help)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LolanBot18/TomHolland)
 ### Hard Way
 
 ```bash
