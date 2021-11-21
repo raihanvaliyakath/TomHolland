@@ -475,8 +475,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ', url='https://github.com/LolanBot18/TomHolland'),
             InlineKeyboardButton('𝑴𝒀𝑫𝒆𝒗🧑‍💻', url='https://t.me/PeterParkerspide')
             ],[
-            InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close_data')
-            InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='home')
+            InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close_data'),
+            InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
