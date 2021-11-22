@@ -87,8 +87,9 @@ Check [`sample_info.py`](sample_info.py) before editing [`info.py`](info.py) fil
 * Currently [API used](http://www.omdbapi.com) here is allowing 1000 requests per day. [You may not get posters if its crossed](https://t.me/ThankTelegram/910168). 
 Once a poster is fetched from OMDB , poster is saved to DB to reduce duplicate requests.
 
-## Admin commands
+##  commands
 ```
+/start  - Start the bot
 channel - Get basic infomation about channels
 total - Show total of saved files
 delete - Delete file from database
