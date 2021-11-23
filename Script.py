@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """👋H𝙴𝙻𝙻𝙾 {},
+    START_TXT = """𝙷𝙴𝙻𝙾 {},
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 , <a href='https://t.me/No_Way_Home_bot'>𝗧𝗼𝗺𝗛𝗼𝗹𝗹𝗮𝗻𝗱</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 𝙸𝙽 𝙶𝚁𝙾𝚄𝙿𝚂,𝙸𝚃'𝚂 𝚅𝙴𝚁𝚈 𝙴𝙰𝚂𝚈. 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽, 𝚃𝙷𝙰𝚃𝚂 𝙰𝙻𝙻, 𝙸'𝙻𝙻 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 𝚃𝙷𝙴𝚁𝙴 🤓➖➖➖➖➖➖➖➖➖➖➖➖➖©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: <a href="https://t.me/PeterParkerspide"> 𝙿𝚎𝚝𝚎𝚛ᵖᵃʳᵏᵉʳ </a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
@@ -23,7 +23,7 @@ class script(object):
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
 <a href="https://t.me/team_annaben"> 𝑻𝑬𝑨𝑴 𝑨𝑵𝑵𝑨 </a>"""
-  
+    FUN_TXT ="""<b>FUN MODULE</b> 
 
 <b>🎲 NOTHING MUCH JUST SOME FUN THINGS</b>
 t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍: 
