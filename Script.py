@@ -23,7 +23,7 @@ class script(object):
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
 <a href="https://t.me/team_annaben"> 𝑻𝑬𝑨𝑴 𝑨𝑵𝑵𝑨 </a>"""
-        FUN_TXT ="""<b>FUN MODULE</b> 
+  
 
 <b>🎲 NOTHING MUCH JUST SOME FUN THINGS</b>
 t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍: 
