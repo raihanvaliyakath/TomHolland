@@ -713,7 +713,7 @@ async def advantage_spell_chok(msg):
     query = re.sub(r"\b(pl(i|e)*?(s|z+|ease|se|ese|(e+)s(e)?)|send|അയക|movie(s)?|new|latest|br((o|u)h?)*|^h(e)?(l)*(o)*|mal(ayalam)?|kitto|ayakko|ayakko kitto|ayakkamo|undaavo|und(o)*|kit(t(i|y)?)?o(w)?|thar(o)*w?|kittumo(o)*|aya(k)*(um(o)*)?|full\തരുമോ|ഉണ്ടോ(one)|കിട്ടോ\ssubtitle)", "", msg.text) # plis contribute some common words 
     query = query.strip()
     if not query:
-        k = await msg.reply("No valid movie name given")
+        k = await msg.reply("👩🏻‍💻 Requested By : {message.from_user.mention},No valid movie name given")
         await asyncio.sleep(8)
         await k.delete()
         return
