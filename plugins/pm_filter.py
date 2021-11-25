@@ -413,12 +413,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('❔ How To Use Me ❔', url='https://t.me/updatechannel8986?startgroup=true')
+            InlineKeyboardButton('❔ How To Use Me ❔', url='https://t.me/filmhouse016channel?startgroup=true')
             ],[
-            InlineKeyboardButton('©️ᴄʜᴀɴɴᴇʟ', url='https://t.me/updatechannel8986'),
-            InlineKeyboardButton('♻️Gʀᴏᴜᴘ', url='https://t.me/lolangroup')
+            InlineKeyboardButton('©️ᴄʜᴀɴɴᴇʟ', url='https://t.me/filmhouse016channel'),
+            InlineKeyboardButton('♻️Gʀᴏᴜᴘ', url='https://t.me/filmhouse016')
             ],[
-            InlineKeyboardButton('𝑴𝒀𝑫𝒆𝒗🧑‍💻', url='https://t.me/PeterParkerspide'),
+            InlineKeyboardButton('𝑴𝒀𝑫𝒆𝒗🧑‍💻', url='https://t.me/RAIHAN_TG'),
             InlineKeyboardButton('🎮Game🎮', callback_data='fun')
             ],[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url='https://t.me/No_Way_Home_bot?startgroup=true')
@@ -473,7 +473,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "fun":
         buttons = [[
             InlineKeyboardButton('Sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ', url='https://github.com/LolanBot18/TomHolland'),
-            InlineKeyboardButton('𝑴𝒀𝑫𝒆𝒗🧑‍💻', url='https://t.me/PeterParkerspide')
+            InlineKeyboardButton('𝑴𝒀𝑫𝒆𝒗🧑‍💻', url='https://t.me/RAIHAN_TG')
             ],[
             InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close_data'),
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start')
