@@ -1,6 +1,7 @@
 # TomHolland
 Very Sempil Bot Auto Filter bot
-##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+TomHolland!;created+by+PeterParker!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+TomHolland!;created+by+Raihan tg
+!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
 </p>
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
@@ -24,7 +25,8 @@ Very Sempil Bot Auto Filter bot
 
 <h3 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋<img align="center" src="https://github.com/PANDITHAN/PANDITHAN/blob/main/assets/Handshake.gif" height="33px" /></h3>
 <p align="center">
-<a href="https://t.me/PeterParkerspide"><img alt="Telegram" src="https://img.shields.io/badge/𝙳𝙴𝚅 1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/RAIHAN_TG
+"><img alt="Telegram" src="https://img.shields.io/badge/𝙳𝙴𝚅 1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://t.me/updatechannel8986"><img alt="Telegram" src="https://img.shields.io/badge/©️ᴄʜᴀɴɴᴇʟ 1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://t.me/lolangroup"><img alt="Telegram" src="https://img.shields.io/badge/♻️Gʀᴏᴜᴘ 1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://t.me/No_Way_Home_bot"><img alt="Telegram" src="https://img.shields.io/badge/𝙳𝚎𝚖𝚘 𝙱𝚘𝚝 1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
