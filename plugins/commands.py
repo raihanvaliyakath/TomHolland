@@ -18,7 +18,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/updatechannel8986')
+                InlineKeyboardButton('𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/filmhouse016channel')
             ],
             [
                 InlineKeyboardButton('𝙷𝙴𝙻𝙿', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -37,15 +37,15 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('❔ How To Use Me ❔', url='https://t.me/updatechannel8986')
+            InlineKeyboardButton('❔ How To Use Me ❔', url='https://t.me/filmhouse016channel?startgroup=true')
             ],[
-            InlineKeyboardButton('©️ᴄʜᴀɴɴᴇʟ', url='https://t.me/updatechannel8986'),
-            InlineKeyboardButton('♻️Gʀᴏᴜᴘ', url='https://t.me/lolangroup')
+            InlineKeyboardButton('©️ᴄʜᴀɴɴᴇʟ', url='https://t.me/filmhouse016channel'),
+            InlineKeyboardButton('♻️Gʀᴏᴜᴘ', url='https://t.me/filmhouse016')
             ],[
-            InlineKeyboardButton('𝑴𝒀𝑫𝒆𝒗🧑‍💻', url='https://t.me/PeterParkerspide'),
+            InlineKeyboardButton('𝑴𝒀𝑫𝒆𝒗🧑‍💻', url='https://t.me/RAIHAN_TG'),
             InlineKeyboardButton('🎮Game🎮', callback_data='fun')
             ],[
-            InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url='https://t.me/No_Way_Home_bot?startgroup=true')
+            InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url='https://t.me/LA_LISA_AUTOFILTER_BOT?startgroup=true')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -80,15 +80,15 @@ async def start(client, message):
         return
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('❔ How To Use Me ❔', url='https://t.me/updatechannel8986')
+            InlineKeyboardButton('❔ How To Use Me ❔', url='https://t.me/filmhouse016channel?startgroup=true')
             ],[
-            InlineKeyboardButton('©️ᴄʜᴀɴɴᴇʟ', url='https://t.me/updatechannel8986'),
-            InlineKeyboardButton('♻️Gʀᴏᴜᴘ', url='https://t.me/lolangroup')
+            InlineKeyboardButton('©️ᴄʜᴀɴɴᴇʟ', url='https://t.me/filmhouse016channel'),
+            InlineKeyboardButton('♻️Gʀᴏᴜᴘ', url='https://t.me/filmhouse016')
             ],[
-            InlineKeyboardButton('𝑴𝒀𝑫𝒆𝒗🧑‍💻', url='https://t.me/PeterParkerspide'),
-            InlineKeyboardButton('🎮Game🎮', callback_data='fun') 
+            InlineKeyboardButton('𝑴𝒀𝑫𝒆𝒗🧑‍💻', url='https://t.me/RAIHAN_TG'),
+            InlineKeyboardButton('🎮Game🎮', callback_data='fun')
             ],[
-            InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕',url='https://t.me/No_Way_Home_bot?startgroup=true')
+            InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url='https://t.me/LA_LISA_AUTOFILTER_BOT?startgroup=true')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
