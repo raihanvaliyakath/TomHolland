@@ -27,8 +27,8 @@ Very Sempil Bot Auto Filter bot
 <p align="center">
 <a href="https://t.me/RAIHAN_TG
 "><img alt="Telegram" src="https://img.shields.io/badge/𝙳𝙴𝚅 1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://t.me/updatechannel8986"><img alt="Telegram" src="https://img.shields.io/badge/©️ᴄʜᴀɴɴᴇʟ 1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://t.me/lolangroup"><img alt="Telegram" src="https://img.shields.io/badge/♻️Gʀᴏᴜᴘ 1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/filmhouse016channel"><img alt="Telegram" src="https://img.shields.io/badge/©️ᴄʜᴀɴɴᴇʟ 1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/filmhouse016"><img alt="Telegram" src="https://img.shields.io/badge/♻️Gʀᴏᴜᴘ 1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://t.me/No_Way_Home_bot"><img alt="Telegram" src="https://img.shields.io/badge/𝙳𝚎𝚖𝚘 𝙱𝚘𝚝 1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 ## Installation
